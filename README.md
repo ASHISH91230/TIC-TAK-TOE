@@ -1,5 +1,6 @@
 # TIC-TAK-TOE-GAME
 🎲 Tic Tac Toe Game Made with HTML, CSS, and JavaScript 🎮
+![image](https://github.com/ASHISH91230/TIC-TAK-TOE/assets/121534205/411a8a3f-efe4-400a-bc7a-7aa2597fb429)
 
 This repository houses a delightful implementation of the classic Tic Tac Toe game, built using the dynamic trio of HTML, CSS, and JavaScript. 
 
